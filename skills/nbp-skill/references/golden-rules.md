@@ -68,9 +68,9 @@ After generation:
 
 ## Reference Images
 
-NBP принимает до 14 картинок как input. Используй для:
+NBP приймає до 14 зображень як input. Використовуй для:
 
-**Вписать в существующий дизайн:**
+**Вписати в наявний дизайн:**
 ```
 [Attach design/layout image]
 Create content following this exact layout and style.
@@ -78,28 +78,28 @@ Replace [ELEMENT] with [NEW CONTENT].
 Keep colors, typography, composition.
 ```
 
-**Лицо/персонаж как референс:**
+**Обличчя/персонаж як референс:**
 ```
 [Attach portrait]
 Use this person's face. Keep features exactly the same.
 Change: [expression/pose/setting]
 ```
 
-**Продукт/объект как референс:**
+**Продукт/об'єкт як референс:**
 ```
 [Attach product photo]
 Place this product in [NEW CONTEXT].
 Match lighting and perspective.
 ```
 
-**Стиль как референс:**
+**Стиль як референс:**
 ```
 [Attach style reference]
 Create [NEW CONTENT] in this exact visual style.
 Match colors, textures, mood.
 ```
 
-**Несколько референсов сразу:**
+**Кілька референсів одразу:**
 ```
 [Attach Image 1 - face]
 [Attach Image 2 - outfit]
