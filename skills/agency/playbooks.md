@@ -3,7 +3,7 @@
 Це **стартові шаблони**, не догма. Підлаштовуй під конкретний ЦКП, прибирай зайве, додавай потрібне.
 Формат: **Тригер → Загін (ролі) → Потік → Вихід.** `Ω` = власний стек/скіл користувача (пріоритет).
 
-> **Примітка.** Частина `Ω`-скілів у прикладах нижче (напр. `client-dna-v2`, `viral-reels`, `instagram-stories`, `page-cro`, `senior-marketing-analyst`) — це ілюстрації, і вони **не входять** у цей набір. Заміни їх на свої аналоги або встанови окремо. Скіли, що є в наборі: `content-marketing`, `carousel-from-video`, `viral-threads`, `tone-of-voice`, `competitive-matrix`, `deep-competitor-research`, `analyst-deck`, `meta-ads-pro`, `quiz-funnel`, `nbp-skill`, `research-zettelkasten`, `council`, `humanizer-ua`, `skill-conductor`.
+> **Примітка.** Частина `Ω`-скілів у прикладах нижче (напр. `client-dna-v2`, `viral-reels`, `instagram-stories`, `page-cro`, `senior-marketing-analyst`) — це ілюстрації, і вони **не входять** у цей набір. Заміни їх на свої аналоги або встанови окремо. Так само поза набором `tone-of-voice`, `content-marketing`, `carousel-from-video`, `meta-ads-pro` — це скіли інших авторів, їх встановлюють з їхніх репозиторіїв. Скіли, що є в наборі: `competitive-matrix`, `deep-competitor-research`, `analyst-deck`, `research-zettelkasten`, `council`, `humanizer-ua`.
 
 ---
 

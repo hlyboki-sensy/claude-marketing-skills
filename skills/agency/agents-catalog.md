@@ -5,7 +5,7 @@
 > `subagent_type` у виклику `Agent` = **ім'я агента жирним** (як у списку типів). Якщо точна назва не спрацювала — підбери найближчу за списком типів агентів.
 
 ## ★ Маркетингові скіли цього набору (ПЕРШИЙ пріоритет)
-`content-marketing`, `carousel-from-video`, `viral-threads`, `tone-of-voice`, `competitive-matrix`, `deep-competitor-research`, `analyst-deck`, `meta-ads-pro`, `quiz-funnel`, `nbp-skill`, `research-zettelkasten`, `council` («Рада» — 5 лінз), `humanizer-ua` (фінальна чистка укр. тексту), `skill-conductor`.
+`competitive-matrix`, `deep-competitor-research`, `analyst-deck`, `research-zettelkasten`, `council` («Рада» — 5 лінз), `humanizer-ua` (фінальна чистка укр. тексту).
 
 > Якщо у вас встановлені інші профільні скіли (аналіз аудиторії, сценарії рілс, CRO-аудит тощо) — додавайте їх сюди першим пріоритетом під свою задачу.
 
